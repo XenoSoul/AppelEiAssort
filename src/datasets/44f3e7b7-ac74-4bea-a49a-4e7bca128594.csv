@@ -1,0 +1,6 @@
+﻿_id,Locatienaam,Type,Straat,Huisnummer,Postcode,Plaats,Longitude,Latitude
+1,AE-Wijchen,Winkel,Burchtstraat,3C,6602AP,Wijchen,5.7247605,51.8079317
+2,AE-Nijmegen,Winkel,Groenestraat,261,6531HK,Nijmegen,5.8448481,51.8308688
+3,AE-Beuningen,Winkel,Thorbeckeplein,19,6641CB,Beuningen,5.7706315,51.8599057
+4,AE-Veenendaal,Winkel,Passage,21,3901AZ,Veenendaal,5.5566012,52.0265933
+5,AH-HQ,Distributiepunt,Tolsestraat,29,4043KB,Opheusden,5.6477172,51.9323921
